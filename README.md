@@ -1,6 +1,6 @@
 # Hi, I'm Dani 👋
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
+<a href="https://www.linkedin.com/in/daniel-jane-garcia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:danij4ne@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 ---
 
@@ -20,7 +20,7 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 
 ---
 
-#### 🛍️ [retail-weather-etl](https://github.com/Danij4ne/retail-weather-etl)
+### 🛍️ [retail-weather-etl](https://github.com/Danij4ne/retail-weather-etl)
 
 ---
 
@@ -28,13 +28,13 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 
 **Business:** Retail analytics focused on understanding how weather affects sales by city and product category.
 
-**Architecture++:**++ Local-first ETL with a Medallion architecture (raw → silver → gold), rejected sales for audit, full-refresh processing, and a star schema + analytical mart.
+**Architecture:** Local-first ETL with a Medallion architecture (raw → silver → gold), rejected sales for audit, full-refresh processing, and a star schema + analytical mart.
 
-**Analytics++:**++ Units sold, orders, net revenue, average ticket, temperature, precipitation, rain/temp buckets, and price coverage.
+**Analytics:** Units sold, orders, net revenue, average ticket, temperature, precipitation, rain/temp buckets, and price coverage.
 
 ---
 
-#### 📈 saas-revenue-elt 🏗️ (building)
+### 📈 saas-revenue-elt 🏗️ (building)
 
 ---
 
@@ -45,3 +45,8 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 **Architecture:** Append-only raw loads; dbt staging views → intermediate tables → analytical marts, with intermediate and marts rebuilt on full refresh.
 
 **Analytics:** MRR, ARR, ARPU, MRR movements, logo churn, monetary churn, and 12-month NRR.
+
+
+
+
+
