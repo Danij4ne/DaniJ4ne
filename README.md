@@ -41,24 +41,24 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/architecture.png" alt="Data flow" width="200">
+      <img src="assets/retail-weather-etl/architecture.png" alt="Flow" width="200">
       <br>
-      <sub>Data flow</sub>
+      <sub>Flow</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/data_layers.png" alt="Data layers" width="200">
+      <img src="assets/retail-weather-etl/data_layers.png" alt="Layers" width="200">
       <br>
-      <sub>Data layers</sub>
+      <sub>Layers</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/local_execution_flow.png" alt="Local execution" width="200">
+      <img src="assets/retail-weather-etl/local_execution_flow.png" alt="Local" width="200">
       <br>
-      <sub>Local execution</sub>
+      <sub>Local</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/airflow_orchestrated_flow.png" alt="Airflow execution" width="200">
+      <img src="assets/retail-weather-etl/airflow_orchestrated_flow.png" alt="Airflow" width="200">
       <br>
-      <sub>Airflow execution</sub>
+      <sub>Airflow</sub>
     </td>
   </tr>
 </table>
@@ -84,24 +84,24 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/data_flow.png" alt="Data flow" width="200">
+      <img src="assets/saas-revenue-elt/data_flow.png" alt="Flow" width="200">
       <br>
-      <sub>Data flow</sub>
+      <sub>Flow</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/data_layer.png" alt="Data layers" width="200">
+      <img src="assets/saas-revenue-elt/data_layer.png" alt="Layers" width="200">
       <br>
-      <sub>Data layers</sub>
+      <sub>Layers</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/commit_to_deploy.png" alt="Commit to deploy" width="200">
+      <img src="assets/saas-revenue-elt/commit_to_deploy.png" alt="Deploy" width="200">
       <br>
-      <sub>Commit to deploy</sub>
+      <sub>Deploy</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/gcp_infrastructure.png" alt="GCP infrastructure" width="200">
+      <img src="assets/saas-revenue-elt/gcp_infrastructure.png" alt="Infra" width="200">
       <br>
-      <sub>GCP infrastructure</sub>
+      <sub>Infra</sub>
     </td>
   </tr>
 </table>
