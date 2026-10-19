@@ -41,22 +41,22 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/architecture.png" alt="Data flow" width="100%">
+      <img src="assets/retail-weather-etl/architecture.png" alt="Data flow" width="200">
       <br>
       <sub>Data flow</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/data_layers.png" alt="Data layers" width="100%">
+      <img src="assets/retail-weather-etl/data_layers.png" alt="Data layers" width="200">
       <br>
       <sub>Data layers</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/local_execution_flow.png" alt="Local execution" width="100%">
+      <img src="assets/retail-weather-etl/local_execution_flow.png" alt="Local execution" width="200">
       <br>
       <sub>Local execution</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/retail-weather-etl/airflow_orchestrated_flow.png" alt="Airflow execution" width="100%">
+      <img src="assets/retail-weather-etl/airflow_orchestrated_flow.png" alt="Airflow execution" width="200">
       <br>
       <sub>Airflow execution</sub>
     </td>
@@ -67,7 +67,7 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 
 
 
-### 📈 saas-revenue-elt 
+### 📈 [saas-revenue-elt](https://github.com/Danij4ne/saas-revenue-elt) 
 
 ---
 
@@ -84,22 +84,22 @@ I'm constantly learning, building, and pushing myself to become a better enginee
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/data_flow.png" alt="Data flow" width="100%">
+      <img src="assets/saas-revenue-elt/data_flow.png" alt="Data flow" width="200">
       <br>
       <sub>Data flow</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/data_layer.png" alt="Data layers" width="100%">
+      <img src="assets/saas-revenue-elt/data_layer.png" alt="Data layers" width="200">
       <br>
       <sub>Data layers</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/commit_to_deploy.png" alt="Commit to deploy" width="100%">
+      <img src="assets/saas-revenue-elt/commit_to_deploy.png" alt="Commit to deploy" width="200">
       <br>
       <sub>Commit to deploy</sub>
     </td>
     <td align="center" width="25%">
-      <img src="assets/saas-revenue-elt/gcp_infrastructure.png" alt="GCP infrastructure" width="100%">
+      <img src="assets/saas-revenue-elt/gcp_infrastructure.png" alt="GCP infrastructure" width="200">
       <br>
       <sub>GCP infrastructure</sub>
     </td>
